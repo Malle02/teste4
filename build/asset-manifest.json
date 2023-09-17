@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce63f3a0.css",
+    "main.js": "/static/js/main.3dacff72.js",
+    "static/media/portfolio_class.png": "/static/media/portfolio_class.9544cebeede02bbf9cbd.png",
+    "static/media/Zoo.png": "/static/media/Zoo.1bb9afd7d075e8e1762a.png",
+    "static/media/hiky_store.png": "/static/media/hiky_store.6db63e4439a705290f9a.png",
+    "static/media/Photo pro.png": "/static/media/Photo pro.f30f0be77219ab29ca87.png",
+    "static/media/cv.png": "/static/media/cv.cd016427a92e6a5507e4.png",
+    "static/media/bts.jpg": "/static/media/bts.f754ef9f49694441cb31.jpg",
+    "static/media/dvd_c.png": "/static/media/dvd_c.5b3be485e618be0cfd8f.png",
+    "static/media/facture_js.png": "/static/media/facture_js.a6eb4a2f126bff4bab55.png",
+    "static/media/projet_interagire_avec_la_bd_ajout_calcule_sup_c.png": "/static/media/projet_interagire_avec_la_bd_ajout_calcule_sup_c.b9bb5a92055ed4281776.png",
+    "static/media/gestion_des_salarier.png": "/static/media/gestion_des_salarier.41e684612e7069911575.png",
+    "static/media/tp_connection_requette multiple_a_la_bd.png": "/static/media/tp_connection_requette multiple_a_la_bd.40708b21f5c70670664e.png",
+    "index.html": "/index.html",
+    "main.ce63f3a0.css.map": "/static/css/main.ce63f3a0.css.map",
+    "main.3dacff72.js.map": "/static/js/main.3dacff72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce63f3a0.css",
+    "static/js/main.3dacff72.js"
+  ]
+}
